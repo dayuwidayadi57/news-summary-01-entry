@@ -9,7 +9,7 @@ const SUMMARY = `World news, Wednesday 11 November 2026.
 
 Russia and Ukraine agreed the war's largest prisoner swap after US-mediated talks in Abu Dhabi; no deal on land or security, AP and Reuters reported.
 
-Iran hit navigation systems on Oman's Didamar island, Reuters reported; the US charged three men over nearly 20 alleged Iran-backed plots.
+Iran hit navigation systems on Oman's Didamar island in the Strait of Hormuz, Reuters reported; the US charged three men over nearly 20 alleged Iran-backed plots.
 
 Israeli strikes killed at least eight in Gaza as truces frayed, the BBC reported; the US-led Peace Council urged Israel to let aid in after floods.
 
